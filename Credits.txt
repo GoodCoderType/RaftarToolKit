@@ -1,0 +1,7 @@
+These are all open source tools.
+
+Publish is authorized by owners
+
+Credits:
+2fa enabler/disabler: Darkitsme
+Advanced boost tool: amaze
